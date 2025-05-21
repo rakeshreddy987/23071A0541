@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-custom-server",
+  "version": "1.0.0",
+  "description": "A custom HTTP server using Node.js demonstrating OS, Path, and Event modules.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
